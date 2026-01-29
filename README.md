@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Logo Portfolio RT1" width="120" height="120">
+  <img src="https://cdn-icons-png.flaticon.com/512/2463/2463510.png" alt="Logo Telecom Signal" width="120" height="120">
 
   # Portfolio Projets - BUT R&T (1ère Année)
   

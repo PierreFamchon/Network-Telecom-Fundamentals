@@ -35,7 +35,7 @@ Cette année a été consacrée à l'acquisition des fondamentaux : la compréhe
 Voici l'organisation des projets présents dans ce répertoire :
 
 ```text
-.
+📂 RT1-Projets/
 ├── 📂 BUT SEMESTRE 1 _ SAE/
 │   ├── 📂 SAE1.01 - Se sensibiliser à l_hygiène informatique et à la cybersécurité
 │   ├── 📂 SAE1.02 - S_initier aux réseaux informatiques

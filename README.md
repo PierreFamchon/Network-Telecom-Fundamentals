@@ -50,7 +50,7 @@ Voici l'organisation des projets présents dans ce répertoire :
 ```
 ---
 
-## 🎓 Détail des Semestres
+## 🎓 RT1 - Détail des Semestres : 📂 [Network-Telecom-Fundamentals/](./)
 
 ### **📈 BUT SEMESTRE 1 :  📂 [IT-Essentials-Cyber-Basics/](./IT-Essentials-Cyber-Basics)**
 

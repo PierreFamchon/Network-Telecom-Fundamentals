@@ -35,17 +35,18 @@ Cette année a été consacrée à l'acquisition des fondamentaux : la compréhe
 Voici l'organisation des projets présents dans ce répertoire :
 
 ```text
-📂 RT1-Projets/
-├── 📂 BUT SEMESTRE 1 _ SAE/
-│   ├── 📂 SAE1.01 - Se sensibiliser à l_hygiène informatique et à la cybersécurité
-│   ├── 📂 SAE1.02 - S_initier aux réseaux informatiques
-│   ├── 📂 SAE1.03 - Découvrir un dispositf de transmission
-│   └── 📂 SAE1.05 - Traiter des données
+📂 Network-Telecom-Fundamentals/             
 │
-└── 📂 BUT SEMESTRE 2 _ SAE/
-    ├── 📂 SAE2.01 - 04 - Construire un réseau informatique
-    ├── 📂 SAE2.02 - Mesurer et caractériser un signal
-    └── 📂 SAE2.03 - Mettre en place une solution de communication
+├── 📂 IT-Essentials-Cyber-Basics/           
+│   ├── 📂 Cybersecurity-Hygiene-Intro    
+│   ├── 📂 Network-Architecture-OSI         
+│   ├── 📂 Physical-Layer-Transmission
+│   └── 📂 Data-Analysis-Scripting       
+│
+└── 📂 Local-Network-Deployment/       
+    ├── 📂 LAN-Switching-Routing-Lab        
+    ├── 📂 Signal-Processing-Measurements     
+    └── 📂 Network-Services-Integration       
 ```
 ---
 

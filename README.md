@@ -56,18 +56,18 @@ Voici l'organisation des projets présents dans ce répertoire :
 
 | Projet | Thématique | Technologies Clés |
 | :--- | :--- | :--- |
-| **SAE 1.01** | **Hygiène Informatique**<br>Sensibilisation à la cybersécurité et aux bonnes pratiques. | ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Sec](https://img.shields.io/badge/Sec-ANSSI-blue?style=flat-square) |
-| **SAE 1.02** | **Initiation Réseaux**<br>Bases de l'adressage IP et configuration de petits réseaux. | ![Cisco](https://img.shields.io/badge/Simu-Packet_Tracer-1BA0D7?style=flat-square) ![Net](https://img.shields.io/badge/Net-IPv4-green?style=flat-square) |
-| **SAE 1.03** | **Transmission**<br>Découverte de la chaîne de transmission et mesures physiques. | ![Signal](https://img.shields.io/badge/Phys-Oscilloscope-red?style=flat-square) ![Cablage](https://img.shields.io/badge/Media-Cuivre%2FFibre-orange?style=flat-square) |
-| **SAE 1.05** | **Data & Web**<br>Initiation au développement Web et au traitement de données. | ![Python](https://img.shields.io/badge/Dev-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/Web-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| **📂 Cybersecurity-Hygiene-Intro** | **Hygiène Informatique**<br>Sensibilisation à la cybersécurité et aux bonnes pratiques. | ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Sec](https://img.shields.io/badge/Sec-ANSSI-blue?style=flat-square) |
+| **📂 Network-Architecture-OSI** | **Initiation Réseaux**<br>Bases de l'adressage IP et configuration de petits réseaux. | ![Cisco](https://img.shields.io/badge/Simu-Packet_Tracer-1BA0D7?style=flat-square) ![Net](https://img.shields.io/badge/Net-IPv4-green?style=flat-square) |
+| **📂 Physical-Layer-Transmission** | **Transmission**<br>Découverte de la chaîne de transmission et mesures physiques. | ![Signal](https://img.shields.io/badge/Phys-Oscilloscope-red?style=flat-square) ![Cablage](https://img.shields.io/badge/Media-Cuivre%2FFibre-orange?style=flat-square) |
+| **📂 Data-Analysis-Scripting** | **Data & Web**<br>Initiation au développement Web et au traitement de données. | ![Python](https://img.shields.io/badge/Dev-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/Web-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
 ### 📂 BUT SEMESTRE 2
 
 | Projet | Thématique | Technologies Clés |
 | :--- | :--- | :--- |
-| **SAE 2.01** | **Réseau Local (LAN)**<br>Architecture commutée, mise en place de VLANs et routage. | ![Cisco](https://img.shields.io/badge/Net-Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Switching](https://img.shields.io/badge/Proto-VLAN-blueviolet?style=flat-square) |
-| **SAE 2.02** | **Physique du Signal**<br>Mesure, caractérisation et modulation de signaux. | ![Maths](https://img.shields.io/badge/Maths-Fourier-lightgrey?style=flat-square) ![Spectre](https://img.shields.io/badge/Analyse-Spectrale-success?style=flat-square) |
-| **SAE 2.03** | **Téléphonie & Comm.**<br>Installation d'un service de communication (VoIP). | ![VoIP](https://img.shields.io/badge/Proto-SIP%2FRTP-404040?style=flat-square) ![Asterisk](https://img.shields.io/badge/Soft-Asterisk-F37424?style=flat-square) |
+| **📂 LAN-Switching-Routing-Lab** | **Réseau Local (LAN)**<br>Architecture commutée, mise en place de VLANs et routage. | ![Cisco](https://img.shields.io/badge/Net-Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Switching](https://img.shields.io/badge/Proto-VLAN-blueviolet?style=flat-square) |
+| **📂 Signal-Processing-Measurements** | **Physique du Signal**<br>Mesure, caractérisation et modulation de signaux. | ![Maths](https://img.shields.io/badge/Maths-Fourier-lightgrey?style=flat-square) ![Spectre](https://img.shields.io/badge/Analyse-Spectrale-success?style=flat-square) |
+| **📂 Network-Services-Integration** | **Téléphonie & Comm.**<br>Installation d'un service de communication (VoIP). | ![VoIP](https://img.shields.io/badge/Proto-SIP%2FRTP-404040?style=flat-square) ![Asterisk](https://img.shields.io/badge/Soft-Asterisk-F37424?style=flat-square) |
 
 ---
 

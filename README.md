@@ -65,7 +65,7 @@ Voici l'organisation des projets présents dans ce répertoire :
 
 | Projet | Thématique | Technologies Clés |
 | :--- | :--- | :--- |
-| **📂 [LAN-Switching-Routing-Lab]()** | **Réseau Local (LAN)**<br>Architecture commutée, mise en place de VLANs et routage. | ![Cisco](https://img.shields.io/badge/Net-Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Switching](https://img.shields.io/badge/Proto-VLAN-blueviolet?style=flat-square) |
+| **📂 [LAN-Switching-Routing-Lab](https://github.com/PierreFamchon/Network-Telecom-Fundamentals/tree/main/Local-Network-Deployment/LAN-Switching-Routing-Lab)** | **Réseau Local (LAN)**<br>Architecture commutée, mise en place de VLANs et routage. | ![Cisco](https://img.shields.io/badge/Net-Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Switching](https://img.shields.io/badge/Proto-VLAN-blueviolet?style=flat-square) |
 | **📂 [Signal-Processing-Measurements](https://github.com/PierreFamchon/Network-Telecom-Fundamentals/tree/main/Local-Network-Deployment/LAN-Switching-Routing-Lab)** | **Physique du Signal**<br>Mesure, caractérisation et modulation de signaux. | ![Maths](https://img.shields.io/badge/Maths-Fourier-lightgrey?style=flat-square) ![Spectre](https://img.shields.io/badge/Analyse-Spectrale-success?style=flat-square) |
 | **📂 [Network-Services-Integration](https://github.com/PierreFamchon/Network-Telecom-Fundamentals/tree/main/Local-Network-Deployment/Network-Services-Integration)** | **Téléphonie & Comm.**<br>Installation d'un service de communication (VoIP). | ![VoIP](https://img.shields.io/badge/Proto-SIP%2FRTP-404040?style=flat-square) ![Asterisk](https://img.shields.io/badge/Soft-Asterisk-F37424?style=flat-square) |
 

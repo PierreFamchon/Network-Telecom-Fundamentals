@@ -54,6 +54,8 @@ Voici l'organisation des projets présents dans ce répertoire :
 
 ### **📈 BUT SEMESTRE 1 :  📂 [IT-Essentials-Cyber-Basics/](./IT-Essentials-Cyber-Basics)**
 
+<br> 
+
 | Projet | Thématique | Technologies Clés |
 | :--- | :--- | :--- |
 | **📂 [Cybersecurity-Hygiene-Intro](./IT-Essentials-Cyber-Basics/Cybersecurity-Hygiene-Intro)** | **Hygiène Informatique**<br>Sensibilisation à la cybersécurité et aux bonnes pratiques. | ![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Sec](https://img.shields.io/badge/Sec-ANSSI-blue?style=flat-square) |
@@ -61,7 +63,11 @@ Voici l'organisation des projets présents dans ce répertoire :
 | **📂 [Physical-Layer-Transmission](./IT-Essentials-Cyber-Basics/Physical-Layer-Transmission)** | **Transmission**<br>Découverte de la chaîne de transmission et mesures physiques. | ![Signal](https://img.shields.io/badge/Phys-Oscilloscope-red?style=flat-square) ![Cablage](https://img.shields.io/badge/Media-Cuivre%2FFibre-orange?style=flat-square) |
 | **📂 [Data-Analysis-Scripting](./IT-Essentials-Cyber-Basics/Data-Analysis-Scripting)** | **Data & Web**<br>Initiation au développement Web et au traitement de données. | ![Python](https://img.shields.io/badge/Dev-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/Web-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) |
 
+<br> 
+
 ### **📈 BUT SEMESTRE 2 :  📂 [Local-Network-Deployment/](./Local-Network-Deployment)**
+
+<br> 
 
 | Projet | Thématique | Technologies Clés |
 | :--- | :--- | :--- |
@@ -76,3 +82,4 @@ Voici l'organisation des projets présents dans ce répertoire :
 Pierre Famchon
 
 * Étudiant en BUT R&T (Réseaux et Télécommunications).
+* Passionné par l'automatisation, la cybersécurité et l'architecture réseau.
